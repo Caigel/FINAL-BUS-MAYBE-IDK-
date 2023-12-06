@@ -1,0 +1,7 @@
+Name: Bus Map thingy
+Purpose: To show the time and cost of a bus route
+Reason(s): TO imorove public transit 
+Goal(s): Make GUI that shows the route of the bus and its stops, the cost of ticket depending on the stop, and the time it would take to arrive. 
+Audience: People that take the bus. 
+
+problems encountered so far: self. is the ductape of GUI classes and should be applied to everything 
